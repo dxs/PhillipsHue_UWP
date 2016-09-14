@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhillipsHue_UWP", "PhillipsHue_UWP\PhillipsHue_UWP.csproj", "{4DAFA5DF-A3B0-40D8-BFBF-326D75E8BDFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhillipsHue", "PhillipsHue\PhillipsHue.csproj", "{0201863F-8ADE-478A-B6BC-DA8E03646173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,26 @@ Global
 		{4DAFA5DF-A3B0-40D8-BFBF-326D75E8BDFA}.Release|x64.Build.0 = Release|x64
 		{4DAFA5DF-A3B0-40D8-BFBF-326D75E8BDFA}.Release|x86.ActiveCfg = Release|x86
 		{4DAFA5DF-A3B0-40D8-BFBF-326D75E8BDFA}.Release|x86.Build.0 = Release|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|ARM.Build.0 = Debug|ARM
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|ARM.Deploy.0 = Debug|ARM
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|x64.ActiveCfg = Debug|x64
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|x64.Build.0 = Debug|x64
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|x64.Deploy.0 = Debug|x64
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|x86.ActiveCfg = Debug|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|x86.Build.0 = Debug|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Debug|x86.Deploy.0 = Debug|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|Any CPU.ActiveCfg = Release|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|ARM.ActiveCfg = Release|ARM
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|ARM.Build.0 = Release|ARM
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|ARM.Deploy.0 = Release|ARM
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|x64.ActiveCfg = Release|x64
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|x64.Build.0 = Release|x64
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|x64.Deploy.0 = Release|x64
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|x86.ActiveCfg = Release|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|x86.Build.0 = Release|x86
+		{0201863F-8ADE-478A-B6BC-DA8E03646173}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

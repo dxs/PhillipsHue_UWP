@@ -107,9 +107,14 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bridge.cs" />
-    <Compile Include="HsbColor.cs" />
-    <Compile Include="Lights.cs" />
+    <Compile Include="HueLib\Bridge.cs" />
+    <Compile Include="HueLib\Groups.cs" />
+    <Compile Include="HueLib\HsbColor.cs" />
+    <Compile Include="HueLib\Lights.cs" />
+    <Compile Include="HueLib\Rules.cs" />
+    <Compile Include="HueLib\Scenes.cs" />
+    <Compile Include="HueLib\Schedules.cs" />
+    <Compile Include="HueLib\Sensors.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\PhillipsHue_UWP.rd.xml" />
   </ItemGroup>
