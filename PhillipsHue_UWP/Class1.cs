@@ -8,5 +8,6 @@ namespace PhillipsHue_UWP
 {
     public class Class1
     {
+
     }
 }
